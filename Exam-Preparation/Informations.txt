@@ -1,0 +1,34 @@
+Oral Exam: 17.12.2024 Y11-F-18 | 20 to 30 minutes
+It covers the theory of the course
+
+
+
+General topics of the course
+
+Week 1: Floating Point Numbers and Root Finding
+-> How are numbers represented on the computer
+-> Rounding of numbers
+-> Bisection root finding algorithm
+
+Week 2: Newtons Method and solving Kepler's Equation
+-> Newtons Method
+-> Solving Kepler's Equation
+
+Week 3: Population Growth, Chaos and Fractals
+-> Logistic Equation
+-> Drawing of a Feigenbaum Diagram
+
+Week 4: Fractals, Complex Iterators and ODEs
+-> Compex Functions
+-> Drawing the Mandelbrot-Set
+
+Week 5: Symplectic Integrators
+-> Simplectic Integrators
+-> Forward Euler Method
+-> Leapfrog Method
+
+Week 6: Simulating the Solar System
+-> Using leapfrog to simulate the solar system
+
+Week 7: Parial Differential Equations
+-> 
