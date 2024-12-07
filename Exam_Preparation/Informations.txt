@@ -3,6 +3,9 @@ It covers the theory of the course
 
 
 
+Shit to do:
+- Implement a newton solver, that uses derivatives as well as args to make the keppler-equation solver better
+
 Algorithms, we learned in the lecture:
 -> Root Finding
     Bisection
@@ -14,6 +17,8 @@ Algorithms, we learned in the lecture:
     Euler's-Method
     Forward-Euler-Method
     Leapfrog-Method
+    Midpoint-Method
+    Runge-Katta-Method
 -> Parial-Differential-Equations
     Algorithm used to solve the potential Grid
     2D-Interpolation
